@@ -1,0 +1,153 @@
+.mainbar-titles {
+    color: darkorange;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#experience {
+    position: relative;
+    left: 10px;
+}
+
+.experience-title {
+    font-size: 20px;
+}
+
+#left-jobs {
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+}
+
+#rollup {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+#rollup-title {
+    color: #1165ee;
+    font-size: 20px;
+}
+
+
+.job-date {
+    color: maroon;
+    font-size: 14px;
+    font-weight: medium
+}
+
+.job-description {
+    color: black;
+    font-size: 12px;
+}
+
+.job-entry {
+    position: relative;
+    padding-top: 25px;
+}
+
+#tesla-text {
+    color: red;
+}
+
+#tesla {
+    position: relative;
+    left: 20px;
+}
+
+#aws-title {
+    color: #FF9900
+}
+
+#aws {
+    position: relative;
+    left: 20px;
+}
+
+#unisys {
+    position: relative;
+    left: 20px;
+}
+
+#unisys-text {
+    color: #d40f41;   
+}
+
+#vertical-divider {
+    width: 1px;
+    height: 650px;
+    position: absolute;
+    top: 40px;
+    left: 460px;
+    opacity: 1;
+}
+
+#stanford {
+    position: relative;
+}
+
+#stanford-text {
+    font-size: 20px;
+    color: #C41E3A;
+}
+
+#right-jobs {
+    position: relative;
+    left: 500px;
+    bottom: 697px;
+    width: 500px;
+}
+
+#coupa {
+    position: relative;
+}
+
+#coupa-title {
+    font-size: 20px;
+    color: #1ab4ff;
+}
+
+#job-project-line {
+    position: relative;
+    top: 10px;
+    width: 450px;
+}
+
+#pro-cert {
+    position: relative;
+    bottom: 680px;
+    left: 502px;
+    width: 500px;
+}
+
+#pro-cert-title {
+    font-size: 30px;
+    color: darkorange;
+    font-weight: bold;
+}
+
+#project-title {
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+    left: 2px;
+    padding-top: 10px;
+}
+
+#project-name {
+    position: relative;
+    font-size: 14px;
+    color: orange;
+}
+
+.project-text {
+    font-size: 12px;
+}
+
+#certs {
+    position: relative;
+    top: 10px;
+    font-size: 12px;
+}
+

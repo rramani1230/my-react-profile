@@ -1,0 +1,54 @@
+#name {
+    color: black;
+    font-size: 36px;
+    position: relative;
+    left: 10px;
+}
+
+#number {
+    color: black;
+    position: relative;
+    left: 10px;
+    font-weight: bold;
+    bottom: 5px;
+}
+
+#email {
+    color: black;
+    position: relative;
+    left: 8px;
+    bottom: 6px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#circle {
+    position: relative;
+    transform: scale(0.6);
+    top: 1px;
+    left: 8px;
+}
+
+#linkedin {
+    position: relative;
+    left: 70%;
+    color: #0072B1;
+}
+
+#facebook {
+    position: relative;
+    left: 70%;
+    color: #4267B2;
+}
+
+#instagram {
+    position: relative;
+    left: 70%;
+    color: #d62976;
+}
+
+#github {
+    position: relative;
+    left: 70%;
+    color: black;
+}

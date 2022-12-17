@@ -1,0 +1,142 @@
+.sidebar-titles {
+    font-size: 30px;
+    color: darkorange;
+    font-weight: bold;
+}
+
+#education-title {
+    position: relative;
+    left: 10px
+}
+
+.berkeley {
+    position: relative;
+    left: 15px;
+    color: #003262;
+    top: 5px;
+}
+
+#college-divider {
+    position: relative;
+    left: 15px;
+    width: 250px;
+    opacity: 0.3;
+    top: 7px;
+}
+
+.slo {
+    position: relative;
+    left: 15px;
+    top: 7px;
+    color: green;
+}
+
+#education-divider {
+    position: relative;
+    top: 15px;
+    opacity: 0.3;
+}
+
+#rc-title {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+#coursework {
+    position: relative;
+    top: 30px;
+    left: 30px;  
+}
+
+.courses {
+    font-size: 14px;
+}
+
+#coursework-divider {
+    position: relative;
+    top: 50px;
+    opacity: 0.3;
+}
+
+#language {
+    position: relative;
+    top: 55px;
+    left: 10px;
+}
+
+.tech {
+    font-size: 20px;
+}
+
+#python {
+    position: relative;
+    top: 65px;
+    left: 12px;
+}
+
+#java {
+    position: relative;
+    top: 65px;
+    left: 105px;
+}
+
+#c {
+    position: relative;
+    top: 100px;
+    right: 90px;
+}
+
+#tensor {
+    position: relative;
+    top: 100px;
+    left: 5px;
+}
+
+#react {
+    position: relative;
+    top: 135px;
+    right: 250px;
+}
+
+#react-native {
+    position: relative;
+    top: 135px;
+    right: 143px;
+}
+
+#aws-cloud {
+    position: relative;
+    top: 175px;
+    right: 408px;
+}
+
+#azure-cloud {
+    position: relative;
+    top: 152px;
+    left: 169px;
+}
+
+#javascript {
+    position: relative;
+    top: 190px;
+    right: 95px;
+}
+
+#typescript {
+    position: relative;
+    top: 190px;
+    right: 22px;
+}
+
+#firebase {
+    position: relative;
+    top: 230px;
+    right: 273px;
+}
+
+#supabase {
+    position: relative;
+    top: 230px;
+    right: 185px;
+}

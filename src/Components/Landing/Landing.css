@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: 33% 67%;
+    grid-template-rows: 10% 90%;
+    grid-template-areas: "header header" "sidebar mainbar" ;
+    height: 100vh;
+    width: 100vw;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#header {
+    grid-area: header;
+    background-color: lightgrey;
+}
+
+#sidebar {
+    grid-area: sidebar;
+    background-color: #fefbf2;
+}
+
+#mainbar {
+    grid-area: mainbar;
+    background-color: white;
+}
